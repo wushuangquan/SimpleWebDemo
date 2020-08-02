@@ -1,0 +1,10 @@
+#
+#Fri Jul 31 19:32:17 CST 2020
+/SimpleWebDemo/image.jsp=4
+/SimpleWebDemo/test2.jsp=4
+/SimpleWebDemo/image/sx.jpeg=1
+/SimpleWebDemo/image/linyin.jpeg=1
+/SimpleWebDemo/image/888.png=1
+/SimpleWebDemo/image/520.jpeg=1
+/SimpleWebDemo/=12
+/SimpleWebDemo/test1.jsp=4
